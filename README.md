@@ -13,9 +13,6 @@ We don't currently need to use the youtube api key so you can ignore that. You c
 {
     "token": "<Put your token here>",
     "prefix": "dr!",
-    "yt_api_key": "<REDACTED>",
-    "idioticapi": "<REDACTED>",
-    "dbltoken": "<REDACTED>"U8JN U8
 }
 ```
 ##### You should be ready to go!
